@@ -24,7 +24,7 @@ Using this code to bruteforcing Huawei bootloader is not practical, there are th
    
 3. Your device might patched
 
-   Acording to XDA, Huawei will patch it up and after that user can no more unlocking their bootloader. 
+   Acording to XDA, Huawei will patch it up. After that user can no more unlocking their bootloader. 
    
 Wish you luck!
 
